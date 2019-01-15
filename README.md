@@ -1,4 +1,4 @@
-# get-set-oss
+# get-set-oss :airplane:
 
 Getting started with Opensource Contribution.
 
