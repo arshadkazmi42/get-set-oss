@@ -14,3 +14,11 @@ Follow these bots on twitter, to get easy issues posted on github repository
   - Tweets `first-timers-only` labelled issues from github on twitter
 - [first-issues-bog](https://twitter.com/first_issues)
   - Tweets `good first issue` and `good-first-issue` labelled issues from github on twitter
+
+## Respositories 
+
+List of repositories which can help you get started with your opensource contributions
+
+- [first-contributions](https://github.com/firstcontributions/first-contributions)
+  - Good if you have never created a pull request before.
+
