@@ -11,6 +11,6 @@ Join our slack for any type of help [SLACK](https://join.slack.com/t/opensource-
 Follow these bots on twitter, to get easy issues posted on github repository
 
 - [first-timers-bot](https://twitter.com/first_tmrs_only)
-- Tweets `first-timers-only` labelled issues from github on twitter
+  - Tweets `first-timers-only` labelled issues from github on twitter
 - [first-issues-bog](https://twitter.com/first_issues)
-- Tweets `good first issue` and `good-first-issue` labelled issues from github on twitter
+  - Tweets `good first issue` and `good-first-issue` labelled issues from github on twitter
