@@ -1,10 +1,12 @@
 # get-set-oss :airplane:
 
+ [![SLACK](https://img.shields.io/badge/join-slack-blue.svg)](https://join.slack.com/t/opensource-in/shared_invite/enQtNTIyNzMxMTYwNjQ1LTEyZmI4ZjFhOGI0ZDdiNmZiY2IyNTlhNTUwOTE4YjA5YzNiZWU5NTRhMzk1NWYxMzA2YmU5NGQ1ZTA3NjEyN2Y)
+
 Getting started with Opensource Contribution.
 
 ## Communication
 
-Join our slack for any type of help [![SLACK](https://img.icons8.com/color/32/000000/slack.png)](https://join.slack.com/t/opensource-in/shared_invite/enQtNTIyNzMxMTYwNjQ1LTEyZmI4ZjFhOGI0ZDdiNmZiY2IyNTlhNTUwOTE4YjA5YzNiZWU5NTRhMzk1NWYxMzA2YmU5NGQ1ZTA3NjEyN2Y)
+- Join our slack for any type of help
 
 ## Twitter Bots
 
