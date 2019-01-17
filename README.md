@@ -6,7 +6,7 @@ Getting started with Opensource Contribution.
 
 ## Communication
 
-- Join our slack for any type of help
+- Join our slack for any type of help in getting started with your OSS journey
 
 ## Twitter Bots
 
