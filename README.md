@@ -21,8 +21,12 @@ Follow these bots on twitter, to get easy issues posted on github repository
 
 List of repositories which can help you get started with your opensource contributions
 
+- [awesome-git-init](https://github.com/arshadkazmi42/awesome-github-init)
+  - Awesome collection of docs, configs, tools needed to setup your awesome github repository
+
 - [first-contributions](https://github.com/firstcontributions/first-contributions)
   - Good if you have never created a pull request before.
+
 - [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
   - It will help you find easy issues from github, mozilla and many other communities. It also contains some blogs of people sharing their 
 journey about starting with OSS contirbutions
