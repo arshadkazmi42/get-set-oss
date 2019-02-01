@@ -8,6 +8,8 @@
 
 Getting started with Opensource Contribution.
 
+> Give us a :star: if you like our work :heart:
+
 ## Communication
 
 - Join our slack for any type of help in getting started with your OSS journey
