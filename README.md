@@ -32,3 +32,12 @@ List of repositories which can help you get started with your opensource contrib
 - [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
   - It will help you find easy issues from github, mozilla and many other communities. It also contains some blogs of people sharing their 
 journey about starting with OSS contirbutions
+
+## Libraries
+
+List of libraries which can help you get started with your opensource contributions
+
+- [flip-remote](https://github.com/arshadkazmi42/flip-remote)
+  - Switches your git config remote, from https to ssh
+ - [gitifyme](https://github.com/arshadkazmi42/gitifyme)
+   - Configures your name and email in the currenct repository git config
