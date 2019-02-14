@@ -1,4 +1,4 @@
-# get-set-oss :airplane:
+# get-set-oss :running:
 
  [![SLACK](https://img.shields.io/badge/join-slack-blue.svg)](https://join.slack.com/t/opensource-in/shared_invite/enQtNTIyNzMxMTYwNjQ1LTEyZmI4ZjFhOGI0ZDdiNmZiY2IyNTlhNTUwOTE4YjA5YzNiZWU5NTRhMzk1NWYxMzA2YmU5NGQ1ZTA3NjEyN2Y)
  [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/get-set-oss.svg)](https://github.com/arshadkazmi42/get-set-oss/LICENSE)
