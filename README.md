@@ -34,6 +34,8 @@ List of repositories which can help you get started with your opensource contrib
 - [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
   - It will help you find easy issues from github, mozilla and many other communities. It also contains some blogs of people sharing their 
 journey about starting with OSS contirbutions
+- [contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
+  - Helps you to create your first pull request to get a taste of opensource  
 
 ## Libraries
 
