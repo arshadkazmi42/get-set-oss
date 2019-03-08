@@ -43,5 +43,7 @@ List of libraries which can help you get started with your opensource contributi
 
 - [flip-remote](https://github.com/arshadkazmi42/flip-remote)
   - Switches your git config remote, from https to ssh
- - [gitifyme](https://github.com/arshadkazmi42/gitifyme)
-   - Configures your name and email in the currenct repository git config
+- [gitifyme](https://github.com/arshadkazmi42/gitifyme)
+  - Configures your name and email in the currenct repository git config
+- [rhof-cli](https://github.com/arshadkazmi42/rhof-cli)
+  - Generates contributors hall of fame of respository to add in README.md
