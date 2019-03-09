@@ -47,3 +47,9 @@ List of libraries which can help you get started with your opensource contributi
   - Configures your name and email in the currenct repository git config
 - [rhof-cli](https://github.com/arshadkazmi42/rhof-cli)
   - Generates contributors hall of fame of respository to add in README.md
+
+## Contributors
+
+Thank you to all the contributors who help in making this project better :raised_hands:
+
+<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/sahilmodi"><img src="https://github.com/sahilmodi.png" width="30" /></a><a href="https://github.com/tyleracorn"><img src="https://github.com/tyleracorn.png" width="30" /></a>
