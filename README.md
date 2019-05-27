@@ -37,9 +37,9 @@ journey about starting with OSS contirbutions
 - [contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
   - Helps you to create your first pull request to get a taste of opensource  
 
-## Libraries
+## CLI Tools
 
-List of libraries which can help you get started with your opensource contributions
+List of cli tools which can help you with github tasks.
 
 - [flip-remote](https://github.com/arshadkazmi42/flip-remote)
   - Switches your git config remote, from https to ssh
@@ -47,6 +47,8 @@ List of libraries which can help you get started with your opensource contributi
   - Configures your name and email in the currenct repository git config
 - [rhof-cli](https://github.com/arshadkazmi42/rhof-cli)
   - Generates contributors hall of fame of respository to add in README.md
+- [upstreamit](https://github.com/gh-conf/upstreamit)
+  - Add upstream configuration for forked repository.
 
 ## Contributors
 
