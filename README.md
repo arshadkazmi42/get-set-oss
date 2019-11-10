@@ -49,6 +49,8 @@ List of cli tools which can help you with github tasks.
   - Generates contributors hall of fame of respository to add in README.md
 - [upstreamit](https://github.com/gh-conf/upstreamit)
   - Add upstream configuration for forked repository.
+- [upfork](https://github.com/gh-conf/upfork)
+  - Sync forked repository from remote and rebase with master
 
 ## Contributors
 
